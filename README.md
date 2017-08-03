@@ -1,2 +1,2 @@
 # superset-docker
-Apache superset docker image
+Apache superset alpine docker image
